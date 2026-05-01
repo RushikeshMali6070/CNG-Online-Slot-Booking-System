@@ -1,0 +1,22 @@
+{
+  "name": "cng-slot-backend",
+  "version": "0.1.0",
+  "description": "Minimal backend for CNG Slot Booking System (mock, in-memory)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "auto-generated",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "qrcode": "^1.5.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
