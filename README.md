@@ -31,9 +31,9 @@ Technologies Used:-
 - Razorpay / Paytm API
 
 How to Run:-
-1)Install dependencies
+1) Install dependencies
 npm install
-2)Start frontend
+2) Start frontend
 npm run dev
-3)Start backend
+3) Start backend
 node server.js
